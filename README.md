@@ -1,8 +1,12 @@
 # 📊 Equity Research Dashboard – IT Sector (Power BI + Power Query + Python Scripting)
 
-An interactive **Equity Research Dashboard** built in **Power BI** analyzing top Indian IT companies – **TCS, Infosys, Wipro, HCL Tech, and Tech Mahindra**.  
+An interactive **Equity Research Dashboard** built in **Power BI** analyzing top Indian IT companies – **TCS, Infosys, Wipro, HCL Tech, and Tech Mahindra**. 
 The project integrates **financial statement analysis, valuation multiples, profitability ratios, and market performance trends**.  
 It also includes a **Python data pipeline** to automate stock price data extraction from Yahoo Finance (2018–2025).
+
+# How To Use the Dashboard
+**To run the Dashboard on your Desktop, download the TCS_Financial_Analytics.pbix file**
+**and open it in Power BI**
 
 ---
 
